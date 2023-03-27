@@ -1,9 +1,9 @@
 #WRITE YOUR CODE IN THIS FILE
 def password(p):
     if p == "Knights19":
-        print("ACCESSS GRANTED")
+        return("ACCESSS GRANTED")
     else:
-        print("ACCESS DENIED")
+        return("ACCESS DENIED")
 
 
 
