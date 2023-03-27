@@ -5,5 +5,5 @@ def password(p):
     else:
         return("ACCESS DENIED")
 
-
-
+password("password")
+password("Knights19")
